@@ -6,9 +6,9 @@ I've broken up my (work in progress) process into a few parts:
 
 ## Preparation
 
-## Organization
+## Digitization
 
-## (Re)Storing
+## Storing
 
 Storing the media, physical or digital, should generally be tidy, accessible, and have the future in mind (more on that soon).
 
